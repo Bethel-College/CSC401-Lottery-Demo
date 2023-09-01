@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.svelte.html": "svelte",
+    "common.h": "c"
+  }
+}
